@@ -1,7 +1,5 @@
 # System Decoder
 
-![System Decoder Logo](system_decoder_logo.png)
-
 ## About Us
 
 System Decoder is a cutting-edge technology company specializing in decoding and analyzing complex systems, protocols, and data formats. Our team of experts is dedicated to providing innovative solutions to decode, interpret, and understand various systems efficiently.
