@@ -1,6 +1,6 @@
 # System Decoder
 
-![System Decoder Logo](../system_decoder_logo.png)
+![System Decoder Logo](system_decoder_logo.png)
 
 ## About Us
 
